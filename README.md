@@ -15,3 +15,5 @@ You can download these raw files, copy them into your own S3 bucket, and
 * <https://s3-us-west-2.amazonaws.com/bmc-work/scala-world-2017/uk-crime-data-2015.csv>
 * <https://s3-us-west-2.amazonaws.com/bmc-work/scala-world-2017/uk-crime-data-2016.csv>
 * <https://s3-us-west-2.amazonaws.com/bmc-work/scala-world-2017/uk-crime-data-2017.csv>
+
+You'll need to change the paths in the notebooks to correspond to your mount point, but everything else should work as is.
