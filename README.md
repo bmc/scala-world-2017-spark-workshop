@@ -1,7 +1,10 @@
 [Databricks](https://databricks.com) notebooks used during the
 Scala Workshop at [Scala World 2017](http://scala.world).
 
-You can import the DBC directly into Databricks, using the URL
+You can import the DBC directly into Databricks' free Spark as a Service
+product, 
+[Databricks Community Edition](https://databricks.com/ce). The URL for
+the package of notebooks (a "DBC" archive file) is:
 <https://github.com/bmc/scala-world-2017-spark-workshop/blob/master/notebooks.dbc?raw=true>.
 
 The data files used by the notebooks are at the following locations.
