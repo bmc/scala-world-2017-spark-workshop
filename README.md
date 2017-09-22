@@ -1,5 +1,6 @@
-[Databricks](https://databricks.com) notebooks used during the
-Scala Workshop at [Scala World 2017](http://scala.world).
+This repository contains the
+[Databricks](https://databricks.com) notebooks used during my
+Spark Workshop at [Scala World 2017](http://scala.world).
 
 You can import the DBC directly into Databricks' free Spark as a Service
 product, 
