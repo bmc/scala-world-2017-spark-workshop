@@ -15,21 +15,21 @@ the package of notebooks (a "DBC" archive file) is:
 Start by logging into your Community Edition account. Use Firefox or
 Chrome, for best results. Then:
 
-1. Click the **Home** icon in the left sidebar.
+1. Click the **Home** icon in the left sidebar. 
 ![](https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/home.png)
 
-2. Right click your home folder, then click **Import**.
+2. Right click your home folder, then click **Import**. 
 ![](https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/import-labs-1.png)
 
-3. In the popup, click **URL**.
+3. In the popup, click **URL**. 
 ![](https://github.com/bmc/scala-world-2017-spark-workshop/raw/master/images/import.png)
 
 4. Paste the DBC URL (from above) into the text box.
 
-5. Click the **Import** button.
+5. Click the **Import** button. 
 ![](https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/import-labs-3.png)
 
-6. Wait for the import to finish - this can take a minute or so to complete.
+6. Wait for the import to finish. This can take a minute or so to complete.
 
 ## Running the notebooks
 
@@ -37,17 +37,17 @@ Chrome, for best results. Then:
 
 Start by creating a Spark cluster. (If you already have a running cluster, skip this bit. You can only have one cluster per Community Edition account.)
 
-1. Select the **Clusters** icon in the sidebar.
+1. Select the **Clusters** icon in the sidebar. 
 ![](https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/create-cluster-4.png)
 
-2. Click the **Create Cluster** button.
+2. Click the **Create Cluster** button. 
 ![](https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/create-cluster-5.png)
 
 3. Name your cluster. In Community Edition, since you can only have one running cluster, the name doesn't matter too much.
 
 4. Select the cluster type. We recommend the latest runtime (**3.2**, **3.3**, etc.) and Scala **2.11**.
 
-5. Click the **Create Cluster** button.
+5. Click the **Create Cluster** button. 
 ![](https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/create-cluster-2.png)
 
 ### Open the first notebook
