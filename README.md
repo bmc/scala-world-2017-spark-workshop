@@ -16,14 +16,19 @@ Start by logging into your Community Edition account. Use Firefox or
 Chrome, for best results. Then:
 
 1. Click the **Home** icon in the left sidebar.
-<div><img src="https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/home.png" style="height: 200px"/></div><br/>
+![](https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/home.png)
+
 2. Right click your home folder, then click **Import**.
-<div><img src="https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/import-labs-1.png" style="height: 175px; border: 1px solid #aaa; border-radius: 10px 10px 10px 10px; box-shadow: 5px 5px 5px #aaa"/></div><br/>
+![](https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/import-labs-1.png)
+
 3. In the popup, click **URL**.
-<div><img src="https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/import-labs-2.png" style="height: 125px; border: 1px solid #aaa; border-radius: 10px 10px 10px 10px; box-shadow: 5px 5px 5px #aaa"/></div><br/>
+![](https://github.com/bmc/scala-world-2017-spark-workshop/raw/master/images/import.png)
+
 4. Paste the DBC URL (from above) into the text box.
+
 5. Click the **Import** button.
-<div><img src="https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/import-labs-3.png" style="border: 1px solid #aaa; border-radius: 10px 10px 10px 10px; box-shadow: 5px 5px 5px #aaa"/></div><br/>
+![](https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/import-labs-3.png)
+
 6. Wait for the import to finish - this can take a minute or so to complete.
 
 ## Running the notebooks
@@ -33,13 +38,17 @@ Chrome, for best results. Then:
 Start by creating a Spark cluster. (If you already have a running cluster, skip this bit. You can only have one cluster per Community Edition account.)
 
 1. Select the **Clusters** icon in the sidebar.
-<div><img src="https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/create-cluster-4.png" style="height: 200px"/></div><br/>
+![](https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/create-cluster-4.png)
+
 2. Click the **Create Cluster** button.
-<div><img src="https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/create-cluster-5.png" style="border: 1px solid #aaa; border-radius: 10px 10px 10px 10px; box-shadow: 5px 5px 5px #aaa"/></div><br/>
+![](https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/create-cluster-5.png)
+
 3. Name your cluster. In Community Edition, since you can only have one running cluster, the name doesn't matter too much.
+
 4. Select the cluster type. We recommend the latest runtime (**3.2**, **3.3**, etc.) and Scala **2.11**.
+
 5. Click the **Create Cluster** button.
- <div><img src="https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/create-cluster-2.png" style="height: 300px; border: 1px solid #aaa; border-radius: 10px 10px 10px 10px; box-shadow: 5px 5px 5px #aaa"/></div>
+![](https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/create-cluster-2.png)
 
 ### Open the first notebook
 
