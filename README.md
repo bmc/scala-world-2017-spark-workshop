@@ -46,7 +46,7 @@ Start by creating a Spark cluster. (If you already have a running cluster, skip 
 4. Select the cluster type. We recommend the latest runtime (**3.2**, **3.3**, etc.) and Scala **2.11**.
 
 5. Click the **Create Cluster** button.  
-![](https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/create-cluster-2.png)
+![](https://github.com/bmc/scala-world-2017-spark-workshop/raw/master/images/create-cluster.png)
 
 ### Open the first notebook
 
