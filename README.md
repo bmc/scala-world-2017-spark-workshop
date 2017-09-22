@@ -1,8 +1,9 @@
-# Spark Workshop @ Scala World 2017
+# Apache Spark Workshop @ Scala World 2017
 
 This repository contains the
 [Databricks](https://databricks.com) notebooks used during my
-Spark Workshop at [Scala World 2017](http://scala.world).
+[Apache Spark](https://spark.apache.org) Workshop at
+[Scala World 2017](http://scala.world).
 
 ## Importing the notebooks
 
