@@ -21,13 +21,10 @@ Chrome, for best results. Then:
 2. Right click your home folder, then click **Import**.  
 ![](https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/import-labs-1.png)
 
-3. In the popup, click **URL**.  
-![](https://github.com/bmc/scala-world-2017-spark-workshop/raw/master/images/import.png)
-
+3. In the popup, click **URL**.
 4. Paste the DBC URL (from above) into the text box.
-
 5. Click the **Import** button.  
-![](https://s3-us-west-2.amazonaws.com/curriculum-release/images/eLearning/import-labs-3.png)
+![](https://github.com/bmc/scala-world-2017-spark-workshop/raw/master/images/import.png)
 
 6. Wait for the import to finish. This can take a minute or so to complete.
 
