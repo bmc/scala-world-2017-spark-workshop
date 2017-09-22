@@ -24,7 +24,7 @@ Chrome, for best results. Then:
 3. In the popup, click **URL**.
 4. Paste the DBC URL (from above) into the text box.
 5. Click the **Import** button.  
-![](https://github.com/bmc/scala-world-2017-spark-workshop/raw/master/images/import.png)
+![](https://github.com/bmc/scala-world-2017-spark-workshop/raw/master/images/import-dialog.png)
 
 6. Wait for the import to finish. This can take a minute or so to complete.
 
