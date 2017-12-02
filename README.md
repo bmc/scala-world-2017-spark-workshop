@@ -43,7 +43,7 @@ Start by creating a Spark cluster. (If you already have a running cluster, skip 
 
 3. Name your cluster. In Community Edition, since you can only have one running cluster, the name doesn't matter too much.
 
-4. Select the cluster type. We recommend the latest runtime (**3.2**, **3.3**, etc.) and Scala **2.11**.
+4. Select the cluster type. I recommend the latest runtime (**3.2**, **3.3**, etc.) and Scala **2.11**.
 
 5. Click the **Create Cluster** button.  
 ![](https://github.com/bmc/scala-world-2017-spark-workshop/raw/master/images/create-cluster.png)
