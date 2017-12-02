@@ -78,6 +78,30 @@ point you choose.
 * <https://s3-us-west-2.amazonaws.com/bmc-work/scala-world-2017/uk-crime-data-2016.csv>
 * <https://s3-us-west-2.amazonaws.com/bmc-work/scala-world-2017/uk-crime-data-2017.csv>
 
+### Creating compatible data
+
+If you want to get updated data or data for different years, go to
+<https://data.police.uk/> and select the years and police forces you want.
+**Do not** select outcomes or stop-and-search data.
+
+Unpack the resulting zip file, which will unpack into separate directories for
+each year-month combination. For instance, if you download 2015 data, you'll
+get directories 2015-01, 2015-02, etc. Each directory contains a number of CSV
+files.
+
+To combine all files (e.g., for an entire year) into one single CSV file, use
+the `combine.py` file. Run it like this:
+
+```
+python combine.py <output-file> directory [directory] ...
+```
+
+For instance:
+
+```
+python combine.py uk-crime-data-2015.csv 2015*
+```
+
 ## Getting Help
 
 Drop me an email (bmc@clapper.org) or open an issue if you're having problems. I'm happy to help.
