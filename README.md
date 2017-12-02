@@ -50,7 +50,8 @@ Start by creating a Spark cluster. (If you already have a running cluster, skip 
 
 ### Open the first notebook
 
-Select the **Home** button in the sidebar, and select the "Scala World 2017"
+Select the **Home** button in the sidebar, and select the
+"Scala World 2017 Spark Workshop Presentation Notebooks"
 folder. Then, click on the notebook you want to run (e.g., "01 ETL").
 
 You can run individual cells with Command-Click (Mac) or Alt-Click
