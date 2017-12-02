@@ -55,7 +55,7 @@ display(rawTestDF.select("month").distinct.orderBy("month"))
 // COMMAND ----------
 
 case class MonthCount(month: Int, count: Int)
-val padData = (7 to 12).map { mon => MonthCount(mon, 0) }
+val padData = (10 to 12).map { mon => MonthCount(mon, 0) }
 val paddedDF = spark.createDataFrame(padData)
 display(paddedDF)
 
@@ -75,11 +75,11 @@ val testDF = (
     .na.drop
     .groupBy("month")
     .count
-  union
+  unionAll
   paddedDF
 )
 
-display(trainDF)
+display(trainDF.orderBy("year", "month"))
 
 // COMMAND ----------
 

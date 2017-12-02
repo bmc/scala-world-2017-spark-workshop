@@ -2,7 +2,7 @@
 // MAGIC %md
 // MAGIC #![Spark Logo Tiny](https://s3-us-west-2.amazonaws.com/curriculum-release/images/105/logo_spark_tiny.png) ETL
 // MAGIC                     
-// MAGIC We'll be using [UK crime data](https://data.police.uk) from 2015, 2016 and (later) 2017.
+// MAGIC We'll be using [UK crime data](https://data.police.uk) from 2015, 2016 and (later) 2017. The data was downloaded for all forces, without outcomes or stop-and-search data.
 
 // COMMAND ----------
 
@@ -111,7 +111,8 @@ display(df)
 
 // MAGIC %md
 // MAGIC The LSOA (Lower Layer Super Output Area) codes identify geographical regions within the UK.
-// MAGIC (See <https://en.wikipedia.org/wiki/ONS_coding_system>.) We'll restrict most of our analysis to the
+// MAGIC (See <https://en.wikipedia.org/wiki/ONS_coding_system> for a description of this system. The data
+// MAGIC comes from the LSOA Atlas, located at <https://data.london.gov.uk/dataset/lsoa-atlas>). We'll restrict most of our analysis to the
 // MAGIC London area, so we need a way to pare the codes down. There's another file that contains only the London-area codes.
 
 // COMMAND ----------
