@@ -2,9 +2,13 @@
 
 This repository contains the
 [Databricks](https://databricks.com) notebooks used during my
-[Apache Spark](https://spark.apache.org) 
 [Spark for Scala Developers](https://www.youtube.com/watch?v=zXipqCcVmQM)
 talk at [Scala World 2017](http://scala.world).
+
+Note: Apache Spark, Spark, Apache, and the Spark logo are
+[trademarks](http://spark.apache.org/trademarks.html) of 
+[The Apache Software Foundation](https://www.apache.org/).
+Copyright © 2018 The Apache Software Foundation
 
 ## Importing the notebooks
 
