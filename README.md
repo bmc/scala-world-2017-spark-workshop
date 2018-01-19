@@ -2,8 +2,9 @@
 
 This repository contains the
 [Databricks](https://databricks.com) notebooks used during my
-[Apache Spark](https://spark.apache.org) Workshop at
-[Scala World 2017](http://scala.world).
+[Apache Spark](https://spark.apache.org) 
+[Spark for Scala Developers](https://www.youtube.com/watch?v=zXipqCcVmQM)
+talk at [Scala World 2017](http://scala.world).
 
 ## Importing the notebooks
 
