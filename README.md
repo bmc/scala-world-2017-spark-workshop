@@ -5,10 +5,10 @@ This repository contains the
 [Spark for Scala Developers](https://www.youtube.com/watch?v=zXipqCcVmQM)
 talk at [Scala World 2017](http://scala.world).
 
-Note: Apache Spark, Spark, Apache, and the Spark logo are
+_Apache Spark, Spark, Apache, and the Spark logo are
 [trademarks](http://spark.apache.org/trademarks.html) of 
 [The Apache Software Foundation](https://www.apache.org/).
-Copyright © 2018 The Apache Software Foundation
+Copyright © 2018 The Apache Software Foundation._
 
 ## Importing the notebooks
 
