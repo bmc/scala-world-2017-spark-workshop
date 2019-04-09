@@ -8,7 +8,7 @@
 // MAGIC <p/><p/>
 // MAGIC 
 // MAGIC <div style="float: right">
-// MAGIC   <img src="https://www.ardentex.com/assets/images/bmc.jpg" style="width: 200px"/>
+// MAGIC   <img src="https://www.ardentex.com/images/bmc.jpg" style="width: 200px"/>
 // MAGIC   <br clear="all"/>
 // MAGIC   <div style="text-align: right">
 // MAGIC     Brian Clapper, Databricks<br/>
